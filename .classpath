@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/camunda-engine/7.14.0/camunda-engine-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/model/camunda-bpmn-model/7.14.0/camunda-bpmn-model-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/model/camunda-xml-model/7.14.0/camunda-xml-model-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/model/camunda-cmmn-model/7.14.0/camunda-cmmn-model-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/dmn/camunda-engine-dmn/7.14.0/camunda-engine-dmn-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/commons/camunda-commons-utils/1.9.0/camunda-commons-utils-1.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/commons/camunda-commons-logging/1.9.0/camunda-commons-logging-1.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/commons/camunda-commons-typed-values/7.14.0/camunda-commons-typed-values-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/model/camunda-dmn-model/7.14.0/camunda-dmn-model-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/dmn/camunda-engine-feel-api/7.14.0/camunda-engine-feel-api-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/dmn/camunda-engine-feel-juel/7.14.0/camunda-engine-feel-juel-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/dmn/camunda-engine-feel-scala/7.14.0/camunda-engine-feel-scala-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/5.2.8.RELEASE/spring-beans-5.2.8.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jcl/5.2.8.RELEASE/spring-jcl-5.2.8.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.1/joda-time-2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/connect/camunda-connect-core/1.5.0/camunda-connect-core-1.5.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/connect/camunda-connect-connectors-all/1.5.0/camunda-connect-connectors-all-1.5.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/assert/camunda-bpm-assert/8.0.0/camunda-bpm-assert-8.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/spin/camunda-spin-dataformat-all/1.10.0/camunda-spin-dataformat-all-1.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/spin/camunda-spin-core/1.10.0/camunda-spin-core-1.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/camunda-engine-plugin-spin/7.14.0/camunda-engine-plugin-spin-7.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/template-engines/camunda-template-engines-freemarker/2.0.0/camunda-template-engines-freemarker-2.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/freemarker/freemarker/2.3.29/freemarker-2.3.29.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/template-engines/camunda-template-engines-velocity/2.0.0/camunda-template-engines-velocity-2.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/velocity/velocity-engine-core/2.2/velocity-engine-core-2.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.13/junit-4.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/h2database/h2/1.4.200/h2-1.4.200.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/camunda/bpm/extension/camunda-bpm-process-test-coverage/0.4.0/camunda-bpm-process-test-coverage-0.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.5/commons-io-2.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar"/>
+</classpath>
